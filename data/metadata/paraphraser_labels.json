@@ -1,0 +1,8 @@
+{
+  "paraphrasers": [
+    "chatgpt",
+    "palm",
+    "pegasus",
+    "dipper"
+  ]
+}
